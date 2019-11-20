@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 6559706a389a74ab89f5661e4742fcb4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: klin.stand.01
+    21300002: klin.stand.02
+    21300004: klin.stand.03
+    21300006: klin.stand.04
+    21300008: klin.stand.05
+    21300010: klin.walk.01
+    21300012: klin.walk02
+    21300014: klin.walk03
+    21300016: klin.walk04
+    21300018: klin.walk05
+    21300020: klin.walk06
+    21300022: klin.walk07
+    21300024: klin.walk08
+    21300026: klin.run01
+    21300028: klin.run02
+    21300030: klin.run03
+    21300032: klin.run04
+    21300034: klin.run05
+    21300036: klin.run06
+    21300038: klin.climb01
+    21300040: klin.climb02
+    21300042: klin.climb03
+    21300044: klin.climb04
+    21300046: klin.climb05
+    21300048: klin.climb06
+    21300050: klin.jump.up01
+    21300052: klin.jump.up02
+    21300054: klin.jump.down01
+    21300056: klin.jump.down02
+    21300058: klin.look.up01
+    21300060: klin.look.up02
+    21300062: klin.look.up03
+    21300064: klin.look.up04
+    21300066: klin.look.up05
+    21300068: klin.look.up06
+    21300070: klin.look.up07
+    21300072: klin.look.up08
+    21300074: klin.crouch01
+    21300076: klin.crouch02
+    21300078: klin.crouch03
+    21300080: klin.crouch04
+    21300082: klin.crouch05
+    21300084: klin.crouch06
+    21300086: klin.crouch07
+    21300088: klin.crouch08
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: klin.stand.01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44712026b24fb40b4820712bdbc0f4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.stand.02
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcacf014543144f487555a865641db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.stand.03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fed153303aa4eee86c7c94d0d701bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.stand.04
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5b2d2d23f94500ae5b6c73917336c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.stand.05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099e39ec7b1e439caa6d9c7c3bab3d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk.01
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edb7222868694c57b0d86c7fed3a1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa54ba122b7c45d9bf3d4a8ed3963d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 904
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592156905d36b4d66b8edbbe4627bbef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe7223adb4b54c8e98ceef6efce3fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk05
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeb6e7c49d424a13acd2c8839e32624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2d41e1572d441180a7ca4d7218b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk07
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13f30bc75554f76a26fca635a7f76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.walk08
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac3b25738064b7c9e98e3491c8ff00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run01
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd306d207a5346f6b23ae2b63f5d90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8687a89af6ffd4d879d6c852b4e0dc18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 784
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd98f288e8a4ec3937c1efc13424d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b63276006c1d4172b9d95c68d7af5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run05
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1bcfc31b954888a51a0865ab2bdcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.run06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f73971f0fc34578bcff7b0e168c69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb01
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649569bc58fc846b188c6e9a8dc83cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb02
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cdcad6d7d314bf2813f69b98028909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb03
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f31adce2ede4594a5ae71fdd380bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb04
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8383c8c1e83f412ca9d3d8fec20b7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb05
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 664
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ace58ac8dd0c44aea3dbf8bd6c2ce50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.climb06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775c4f1950064a7b8d2c1d1fe29cc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.jump.up01
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2e2cd3ec3a4446965d4eda21383f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.jump.up02
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20649dd351ea4c12b48b3b25a0a15e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.jump.down01
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2496ec87b8bb405987fdc700eae69e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.jump.down02
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c16937fa0a4f469dbd933e48fad98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up01
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e49e28cc1034b9c938b693d685a768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45734ba645d8847508ecfe7dc9595bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 544
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f5f95b6817642d18e06314b98dbe94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db40b1ff2dfb4e448846d621f336d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up05
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbcb80750b2b4e378dda633106142c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262b99ac42f549d4b9267b859779cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up07
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9331e5e06dd9747da8754436fcc18703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.look.up08
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1691bf4b7d04fea83a39687ac13f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch01
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb7de782d6943c7bb0e0e9f3c743cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4027d472e8b148989859f47d64518a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch03
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 424
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af19a670aa9b4015b32e4682267d534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a58d3ff5b4414d9b4f169e4a54190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch05
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0bdec0b9f149a98a6bd42a6df8702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92eb458192f24c909f2aa74556e5d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch07
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0f4f5bd26a242a48fb0cf9365d0728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klin.crouch08
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b117ef4480f44e21bf333c32d850a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
