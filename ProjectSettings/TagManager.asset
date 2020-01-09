@@ -9,6 +9,8 @@ TagManager:
   - FxTemporaire
   - FireL
   - FireR
+  - Fire
+  - Start
   layers:
   - Default
   - TransparentFX
