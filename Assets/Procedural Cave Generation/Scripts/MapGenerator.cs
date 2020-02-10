@@ -73,7 +73,7 @@ public class MapGenerator : MonoBehaviour {
                 if (borderedMap[x, y] == 1)
                 {
                     int sort = UnityEngine.Random.Range(0, 300);
-                    if (sort < 2)
+                    if (sort < 1)
                     {
                         Instantiate(fire, new Vector3(x - (borderedMap.GetLength(0) / 2) + 1, y - (borderedMap.GetLength(1) / 2) + 1, 0), Quaternion.identity);
                     }

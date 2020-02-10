@@ -38,7 +38,7 @@ public class EnemyController1 : MonoBehaviour
                 Vector3 targetDir = target.transform.position - transform.position;
                 float angle = Mathf.Atan2(targetDir.y, targetDir.x) * Mathf.Rad2Deg - 90f;
                 Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
-                transform.rotation = Quaternion.RotateTowards(transform.rotation, q, 1.1f);
+                transform.rotation = Quaternion.RotateTowards(transform.rotation, q, 90f);
 
                 var locVel = transform.InverseTransformDirection(GetComponent<Rigidbody2D>().velocity);
                 locVel.y = maxSpeed;

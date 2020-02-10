@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "111233684650",
+    "firebase_url": "https://games-1721d.firebaseio.com",
+    "project_id": "games-1721d",
+    "storage_bucket": "games-1721d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111233684650:android:225f8ad721c1977d282cd3",
+        "android_client_info": {
+          "package_name": "com.astars.leadspaceship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111233684650-m7uhrf2ic7dmm4af7n8jsoc45irnfbf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97LxMEUwE_23U3133_4K4w025xrVWi8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111233684650-m7uhrf2ic7dmm4af7n8jsoc45irnfbf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111233684650:android:b8e442130ad2f7b6282cd3",
+        "android_client_info": {
+          "package_name": "com.astars.marslander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111233684650-m7uhrf2ic7dmm4af7n8jsoc45irnfbf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97LxMEUwE_23U3133_4K4w025xrVWi8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111233684650-m7uhrf2ic7dmm4af7n8jsoc45irnfbf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
